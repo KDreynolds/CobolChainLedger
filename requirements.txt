@@ -1,0 +1,10 @@
+# This file contains all the dependencies needed for the Python part of the project.
+# COBOL dependencies will need to be managed separately.
+
+# Standard library modules like hashlib and time are not included as they come with Python.
+
+# Requests is used for broadcasting transactions to the network.
+requests
+
+# You may not need to list any other dependencies if you're using only the standard library for the rest of your project.
+# If you have any other dependencies, list them below.
